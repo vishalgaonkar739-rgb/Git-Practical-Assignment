@@ -1,0 +1,1 @@
+Hello, my name is Vishal Gaonkar. I am a B.Sc. Integrated Data Science student at Goa University. I am interested in programming, data science, machine learning, and learning new technologies. This GitHub repository is part of my Git and GitHub practical work.
